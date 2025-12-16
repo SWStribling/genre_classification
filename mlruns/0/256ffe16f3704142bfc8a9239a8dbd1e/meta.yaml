@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/256ffe16f3704142bfc8a9239a8dbd1e/artifacts
+end_time: 1765918891265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 256ffe16f3704142bfc8a9239a8dbd1e
+run_name: ambitious-bug-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765918878624
+status: 4
+tags: []
+user_id: swstribling
