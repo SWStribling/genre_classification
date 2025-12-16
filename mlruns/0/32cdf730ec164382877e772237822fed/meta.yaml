@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/32cdf730ec164382877e772237822fed/artifacts
+end_time: 1765918211814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32cdf730ec164382877e772237822fed
+run_name: capable-squid-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765918202880
+status: 3
+tags: []
+user_id: swstribling

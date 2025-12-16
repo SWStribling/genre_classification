@@ -1,0 +1,51 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            i4u86e6cetz0v5ld40p2hrthnu5hrflw:
+                args:
+                    - --input_artifact
+                    - raw_data.parquet:latest
+                    - --artifact_name
+                    - preprocessed_data.csv
+                    - --artifact_type
+                    - preprocessed_data
+                    - --artifact_description
+                    - Data after preprocessing
+                codePath: preprocess/run.py
+                codePathLocal: run.py
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "12.6"
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "18153865216"
+                email: sstri005@gmail.com
+                executable: /home/swstribling/miniconda3/envs/mlflow-428f3442275814dbf6350cf02d74496ce6bae3ac/bin/python
+                git:
+                    commit: ee5fc53608e2fdccd5ea93475f29dea052c439cf
+                    remote: https://github.com/SWStribling/genre_classification.git
+                gpu: NVIDIA GeForce RTX 3060 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      memoryTotal: "6442450944"
+                      name: NVIDIA GeForce RTX 3060 Laptop GPU
+                      uuid: GPU-d11f4501-b486-34d1-3572-89d479c703b3
+                host: Maverick
+                memory:
+                    total: "16652648448"
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+                program: /mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/preprocess/run.py
+                python: CPython 3.13.11
+                root: /mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/preprocess
+                startedAt: "2025-12-16T20:50:04.637914Z"
+                writerId: i4u86e6cetz0v5ld40p2hrthnu5hrflw
+        m: []
+        python_version: 3.13.11
+        t:
+            "4": 3.13.11
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": linux-x86_64

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/58d8f16432b540b39651db2a9dbf673e/artifacts
+end_time: 1765918226327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58d8f16432b540b39651db2a9dbf673e
+run_name: secretive-owl-778
+run_uuid: 58d8f16432b540b39651db2a9dbf673e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765918187427
+status: 4
+tags: []
+user_id: swstribling

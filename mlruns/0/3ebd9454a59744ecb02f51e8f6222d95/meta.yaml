@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/3ebd9454a59744ecb02f51e8f6222d95/artifacts
+end_time: 1765917956909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ebd9454a59744ecb02f51e8f6222d95
+run_name: capricious-grub-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765917942244
+status: 4
+tags: []
+user_id: swstribling

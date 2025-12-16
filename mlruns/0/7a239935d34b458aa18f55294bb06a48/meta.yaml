@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/7a239935d34b458aa18f55294bb06a48/artifacts
+end_time: 1765918317862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a239935d34b458aa18f55294bb06a48
+run_name: useful-bird-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765918307804
+status: 3
+tags: []
+user_id: swstribling

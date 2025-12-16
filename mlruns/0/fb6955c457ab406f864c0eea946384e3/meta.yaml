@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/fb6955c457ab406f864c0eea946384e3/artifacts
+end_time: 1765918341701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb6955c457ab406f864c0eea946384e3
+run_name: classy-sheep-391
+run_uuid: fb6955c457ab406f864c0eea946384e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765918302876
+status: 4
+tags: []
+user_id: swstribling

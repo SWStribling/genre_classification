@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/cc2b3decb5a145adb525adbe427377c2/artifacts
+end_time: 1765917173269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc2b3decb5a145adb525adbe427377c2
+run_name: adorable-auk-839
+run_uuid: cc2b3decb5a145adb525adbe427377c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765917105001
+status: 4
+tags: []
+user_id: swstribling

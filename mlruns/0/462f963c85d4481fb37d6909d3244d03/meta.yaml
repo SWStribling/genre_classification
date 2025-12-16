@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/462f963c85d4481fb37d6909d3244d03/artifacts
+end_time: 1765918225971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 462f963c85d4481fb37d6909d3244d03
+run_name: caring-bass-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765918211917
+status: 4
+tags: []
+user_id: swstribling

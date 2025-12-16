@@ -1,0 +1,49 @@
+{
+  "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python": "CPython 3.13.11",
+  "startedAt": "2025-12-16T20:50:04.637914Z",
+  "args": [
+    "--input_artifact",
+    "raw_data.parquet:latest",
+    "--artifact_name",
+    "preprocessed_data.csv",
+    "--artifact_type",
+    "preprocessed_data",
+    "--artifact_description",
+    "Data after preprocessing"
+  ],
+  "program": "/mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/preprocess/run.py",
+  "codePath": "preprocess/run.py",
+  "codePathLocal": "run.py",
+  "git": {
+    "remote": "https://github.com/SWStribling/genre_classification.git",
+    "commit": "ee5fc53608e2fdccd5ea93475f29dea052c439cf"
+  },
+  "email": "sstri005@gmail.com",
+  "root": "/mnt/c/Users/sstri/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/preprocess",
+  "host": "Maverick",
+  "executable": "/home/swstribling/miniconda3/envs/mlflow-428f3442275814dbf6350cf02d74496ce6bae3ac/bin/python",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "18153865216"
+    }
+  },
+  "memory": {
+    "total": "16652648448"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "memoryTotal": "6442450944",
+      "architecture": "Ampere",
+      "uuid": "GPU-d11f4501-b486-34d1-3572-89d479c703b3"
+    }
+  ],
+  "cudaVersion": "12.6",
+  "writerId": "i4u86e6cetz0v5ld40p2hrthnu5hrflw"
+}
